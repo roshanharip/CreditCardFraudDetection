@@ -1,4 +1,4 @@
-# Credit Card Fraud Detction 
+# Credit Card Fraud Detection 
 - For Modelling I used Unbalanced Dataset
   - For Best Accuracy I used 5 Models
     - Logistic Regression
