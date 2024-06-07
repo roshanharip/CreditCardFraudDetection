@@ -1,13 +1,13 @@
 # Credit Card Fraud Detection 
-- For Modelling I used Unbalanced Dataset
-  - For Best Accuracy I used 5 Models
+- For Unbalanced Dataset
+  - For Best Accuracy, I used 5 Models
     - Logistic Regression
     - Shallow Neural Network :  *_Best Accuracy_*
     - Gradient Boosting Classifier : Good
     - Random Tree Forest
     - Linear SVC
 - For Balanced Dataset
-  - For Best Accuracy I used 5 Models
+  - For Best Accuracy, I used 5 Models
     - Logistic Regression
     - Shallow Neural Network : *_Best Accuracy_*
     - Gradient Boosting Classifier : Good
